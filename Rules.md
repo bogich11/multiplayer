@@ -47,7 +47,7 @@ date: 2026-04-03
 | `hotfix/` | Срочный баг в основной ветке              | `hotfix/prod-crash`   |
 | `docs/`   | Обновление документации                   | `docs/readme-update`  |
 | `chore/`  | Вспомогательные задачи (не влияют на код) | `chore/unity-upgrade` |
-| `Levels/` | Изменение уровня                          | `Levels/level-01`     |
+| `levels/` | Изменение уровня                          | `levels/level-01`     |
 ### Примеры
 
 ✅ `feat/inventory-ui`  
